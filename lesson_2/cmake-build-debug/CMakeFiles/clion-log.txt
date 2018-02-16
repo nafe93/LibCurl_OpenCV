@@ -1,0 +1,4 @@
+/home/developer/Desktop/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/developer/opencv3_lessons/chapters-5/lesson_2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/developer/opencv3_lessons/chapters-5/lesson_2/cmake-build-debug

@@ -1,0 +1,3 @@
+/home/developer/opencv3_lessons/chapters-5/lesson_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/developer/opencv3_lessons/chapters-5/lesson_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/developer/opencv3_lessons/chapters-5/lesson_2/cmake-build-debug/CMakeFiles/lesson_2.dir
